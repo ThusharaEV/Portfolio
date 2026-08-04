@@ -62,4 +62,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-© 2026 Thushara Sandeepani. All rights reserved.
+© 2026 Thushara Sandeepani.University of vavuniya. All rights reserved.
