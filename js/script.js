@@ -95,7 +95,8 @@ function initScrollAnimations() {
     const animatedElements = document.querySelectorAll(
         '.section-title, .section-subtitle, .about-text, .about-card, ' +
         '.skill-category, .project-card, .education-card, .contact-item, ' +
-        '.cta-card, .interest-tags, .about-interests, .about-goals'
+        '.cta-card, .interest-tags, .about-interests, .about-goals, ' +
+        '.cert-card, .activity-card'
     );
 
     // Add initial animation classes
